@@ -30,6 +30,7 @@
 * [Funden](https://funden.app/)
 * [NFX Signal](https://signal.nfx.com/)
 * [AngelMatch](https://www.angelmatch.io/)
+* [VentureDex](https://venturedex.co) - Curated, source-linked startup research directory with funding signals and investor context (editorial, free).
 * [PitchBook](https://pitchbook.com/)
 
 ### Incorporation
