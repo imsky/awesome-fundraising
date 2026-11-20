@@ -10,6 +10,10 @@
 
 ## Tools
 
+### Fundraising preparation
+
+* [DDScore](https://www.ddscore.ai/) helps founders cross-check pitch decks and supporting documents against public sources before investor conversations.
+
 ### Documents
 
 * [DocSend](https://www.docsend.com/)
